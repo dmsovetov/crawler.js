@@ -1,0 +1,24 @@
+{
+  "name": "market-parser",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node necromancer"
+  },
+  "dependencies": {
+      "express":            "4.0.x"
+    , "request":            "*"
+    , "cheerio":            "*"
+	, "async":              "*"
+	, "mongodb":            "*"
+	, "colors":				"*"
+	, "iconv":              "*"
+	, "xml2js":             "*"
+	, "later":              "*"
+	, "monk":               "*"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  }
+}

@@ -1,0 +1,370 @@
+[
+    {
+        "host": "http://64.62.233.67:80",
+        "location": {
+            "ip": "64.62.233.67",
+            "country_code": "US",
+            "country_name": "United States",
+            "region_code": "CA",
+            "region_name": "California",
+            "city": "Fremont",
+            "zip_code": "94539",
+            "time_zone": "America/Los_Angeles",
+            "latitude": 37.516,
+            "longitude": -121.897,
+            "metro_code": 807
+        }
+    },
+    {
+        "host": "http://177.107.97.246:8080",
+        "location": {
+            "ip": "177.107.97.246",
+            "country_code": "BR",
+            "country_name": "Brazil",
+            "region_code": "",
+            "region_name": "",
+            "city": "",
+            "zip_code": "",
+            "time_zone": "",
+            "latitude": -23.548,
+            "longitude": -46.636,
+            "metro_code": 0
+        }
+    },
+    {
+        "host": "http://212.91.188.166:3128",
+        "location": {
+            "ip": "212.91.188.166",
+            "country_code": "BG",
+            "country_name": "Bulgaria",
+            "region_code": "22",
+            "region_name": "Sofia-Capital",
+            "city": "Sofia",
+            "zip_code": "",
+            "time_zone": "Europe/Sofia",
+            "latitude": 42.683,
+            "longitude": 23.317,
+            "metro_code": 0
+        }
+    },
+    {
+        "host": "http://113.53.249.29:9999",
+        "location": {
+            "ip": "113.53.249.29",
+            "country_code": "TH",
+            "country_name": "Thailand",
+            "region_code": "",
+            "region_name": "",
+            "city": "",
+            "zip_code": "",
+            "time_zone": "Asia/Bangkok",
+            "latitude": 13.75,
+            "longitude": 100.467,
+            "metro_code": 0
+        }
+    },
+    {
+        "host": "http://86.122.124.11:80",
+        "location": {
+            "ip": "86.122.124.11",
+            "country_code": "RO",
+            "country_name": "Romania",
+            "region_code": "AG",
+            "region_name": "Judetul Arges",
+            "city": "Piteşti",
+            "zip_code": "",
+            "time_zone": "Europe/Bucharest",
+            "latitude": 44.85,
+            "longitude": 24.867,
+            "metro_code": 0
+        }
+    },
+    {
+        "host": "http://84.22.35.37:3129",
+        "location": {
+            "ip": "84.22.35.37",
+            "country_code": "RS",
+            "country_name": "Serbia",
+            "region_code": "",
+            "region_name": "",
+            "city": "",
+            "zip_code": "",
+            "time_zone": "Europe/Belgrade",
+            "latitude": 44.819,
+            "longitude": 20.468,
+            "metro_code": 0
+        }
+    },
+    {
+        "host": "http://109.197.92.60:8080",
+        "location": {
+            "ip": "109.197.92.60",
+            "country_code": "RU",
+            "country_name": "Russia",
+            "region_code": "YAN",
+            "region_name": "Yamalo-Nenetskiy Avtonomnyy Okrug",
+            "city": "Urengoy",
+            "zip_code": "",
+            "time_zone": "Asia/Yekaterinburg",
+            "latitude": 65.966,
+            "longitude": 78.369,
+            "metro_code": 0
+        }
+    },
+    {
+        "host": "http://222.124.35.116:8080",
+        "location": {
+            "ip": "222.124.35.116",
+            "country_code": "ID",
+            "country_name": "Indonesia",
+            "region_code": "",
+            "region_name": "",
+            "city": "Nusa Dua",
+            "zip_code": "",
+            "time_zone": "Asia/Makassar",
+            "latitude": -8.804,
+            "longitude": 115.231,
+            "metro_code": 0
+        }
+    },
+    {
+        "host": "http://109.251.10.3:8080",
+        "location": {
+            "ip": "109.251.10.3",
+            "country_code": "UA",
+            "country_name": "Ukraine",
+            "region_code": "",
+            "region_name": "",
+            "city": "",
+            "zip_code": "",
+            "time_zone": "",
+            "latitude": 50.45,
+            "longitude": 30.523,
+            "metro_code": 0
+        }
+    },
+    {
+        "host": "http://84.42.3.3:3128",
+        "location": {
+            "ip": "84.42.3.3",
+            "country_code": "RU",
+            "country_name": "Russia",
+            "region_code": "TVE",
+            "region_name": "Tverskaya Oblast'",
+            "city": "Tver",
+            "zip_code": "",
+            "time_zone": "Europe/Moscow",
+            "latitude": 56.861,
+            "longitude": 35.876,
+            "metro_code": 0
+        }
+    },
+    {
+        "host": "http://207.5.112.114:8080",
+        "location": {
+            "ip": "207.5.112.114",
+            "country_code": "US",
+            "country_name": "United States",
+            "region_code": "NE",
+            "region_name": "Nebraska",
+            "city": "Kearney",
+            "zip_code": "68845",
+            "time_zone": "America/Chicago",
+            "latitude": 40.7,
+            "longitude": -99.082,
+            "metro_code": 722
+        }
+    },
+    {
+        "host": "http://203.77.246.98:8080",
+        "location": {
+            "ip": "203.77.246.98",
+            "country_code": "ID",
+            "country_name": "Indonesia",
+            "region_code": "",
+            "region_name": "",
+            "city": "Jakarta",
+            "zip_code": "",
+            "time_zone": "Asia/Jakarta",
+            "latitude": -6.175,
+            "longitude": 106.829,
+            "metro_code": 0
+        }
+    },
+    {
+        "host": "http://178.77.243.110:443",
+        "location": {
+            "ip": "178.77.243.110",
+            "country_code": "CZ",
+            "country_name": "Czech Republic",
+            "region_code": "JM",
+            "region_name": "South Moravian",
+            "city": "Ceska",
+            "zip_code": "",
+            "time_zone": "Europe/Prague",
+            "latitude": 49.281,
+            "longitude": 16.565,
+            "metro_code": 0
+        }
+    },
+    {
+        "host": "http://190.29.24.23:8080",
+        "location": {
+            "ip": "190.29.24.23",
+            "country_code": "CO",
+            "country_name": "Colombia",
+            "region_code": "GUA",
+            "region_name": "Departamento del Guainia",
+            "city": "Inirida",
+            "zip_code": "",
+            "time_zone": "America/Bogota",
+            "latitude": 3.865,
+            "longitude": -67.924,
+            "metro_code": 0
+        }
+    },
+    {
+        "host": "http://109.198.126.112:8080",
+        "location": {
+            "ip": "109.198.126.112",
+            "country_code": "RU",
+            "country_name": "Russia",
+            "region_code": "TA",
+            "region_name": "Tatarstan",
+            "city": "Tagil",
+            "zip_code": "",
+            "time_zone": "Europe/Samara",
+            "latitude": 56,
+            "longitude": 51.5,
+            "metro_code": 0
+        }
+    },
+    {
+        "host": "http://119.40.98.26:8080",
+        "location": {
+            "ip": "119.40.98.26",
+            "country_code": "MN",
+            "country_name": "Mongolia",
+            "region_code": "1",
+            "region_name": "Ulaanbaatar Hot",
+            "city": "Ulan Bator",
+            "zip_code": "",
+            "time_zone": "Asia/Ulaanbaatar",
+            "latitude": 47.917,
+            "longitude": 106.917,
+            "metro_code": 0
+        }
+    },
+    {
+        "host": "http://139.0.8.234:8080",
+        "location": {
+            "ip": "139.0.8.234",
+            "country_code": "ID",
+            "country_name": "Indonesia",
+            "region_code": "",
+            "region_name": "",
+            "city": "Jakarta",
+            "zip_code": "",
+            "time_zone": "Asia/Jakarta",
+            "latitude": -6.175,
+            "longitude": 106.829,
+            "metro_code": 0
+        }
+    },
+    {
+        "host": "http://37.187.97.36:3128",
+        "location": {
+            "ip": "37.187.97.36",
+            "country_code": "FR",
+            "country_name": "France",
+            "region_code": "",
+            "region_name": "",
+            "city": "",
+            "zip_code": "",
+            "time_zone": "Europe/Paris",
+            "latitude": 48.86,
+            "longitude": 2.35,
+            "metro_code": 0
+        }
+    },
+    {
+        "host": "http://203.144.170.99:3128",
+        "location": {
+            "ip": "203.144.170.99",
+            "country_code": "TH",
+            "country_name": "Thailand",
+            "region_code": "10",
+            "region_name": "Bangkok",
+            "city": "Bangkok",
+            "zip_code": "",
+            "time_zone": "Asia/Bangkok",
+            "latitude": 13.754,
+            "longitude": 100.501,
+            "metro_code": 0
+        }
+    },
+    {
+        "host": "http://176.194.189.56:8080",
+        "location": {
+            "ip": "176.194.189.56",
+            "country_code": "RU",
+            "country_name": "Russia",
+            "region_code": "BEL",
+            "region_name": "Belgorodskaya Oblast'",
+            "city": "Belgorod",
+            "zip_code": "",
+            "time_zone": "Europe/Moscow",
+            "latitude": 50.611,
+            "longitude": 36.58,
+            "metro_code": 0
+        }
+    },
+    {
+        "host": "http://91.225.102.8:8080",
+        "location": {
+            "ip": "91.225.102.8",
+            "country_code": "RU",
+            "country_name": "Russia",
+            "region_code": "",
+            "region_name": "",
+            "city": "",
+            "zip_code": "",
+            "time_zone": "",
+            "latitude": 55.75,
+            "longitude": 37.617,
+            "metro_code": 0
+        }
+    },
+    {
+        "host": "http://177.99.176.146:8080",
+        "location": {
+            "ip": "177.99.176.146",
+            "country_code": "BR",
+            "country_name": "Brazil",
+            "region_code": "PR",
+            "region_name": "Parana",
+            "city": "Curitiba",
+            "zip_code": "",
+            "time_zone": "America/Sao_Paulo",
+            "latitude": -25.417,
+            "longitude": -49.25,
+            "metro_code": 0
+        }
+    },
+    {
+        "host": "http://87.98.145.72:3128",
+        "location": {
+            "ip": "87.98.145.72",
+            "country_code": "FR",
+            "country_name": "France",
+            "region_code": "",
+            "region_name": "",
+            "city": "",
+            "zip_code": "",
+            "time_zone": "Europe/Paris",
+            "latitude": 48.86,
+            "longitude": 2.35,
+            "metro_code": 0
+        }
+    }
+]
